@@ -5,7 +5,8 @@ This repository contains a Jupyter Notebook (`AI_HCI_coding_1.ipynb`) that utili
 
 ## Setup instructions and how to run
 ### Prerequisites
-- Install this dependency using this code: ```pip install google-generativeai```
+- Install this dependency using this code:
+  ```pip install google-generativeai```
 - Get a [Gemini API key](https://ai.google.dev/gemini-api/docs/api-key)
 
 ### Instructions
