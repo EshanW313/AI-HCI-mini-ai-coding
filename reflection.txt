@@ -1,0 +1,3 @@
+This was a really engaging assignment! I enjoyed delving into the Gemini documentation and experimenting with the API. It was interesting to see how Gemini responded to different prompts. Initially, I faced some challenges with maintaining context throughout the conversation. Gemini treated each prompt as a new chat, regardless of the previous interactions. It required a deeper dive into the API documentation to understand how to effectively utilize the history tracking mechanisms. This allowed me to create a more coherent and engaging chatbot experience.
+
+Overall, this assignment provided valuable insights into working with LLMs and the importance of continuous learning and exploration in the ever-evolving field of AI.
